@@ -1,0 +1,856 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "UxKBlZQUZ0R8_J5Wq_DvcX6dZHk",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "me7KAaNXbbL-Y_PVE5J894fp77A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pMv6QcVk3wg"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-11T10:30:09Z",
+        "channelId": "UCeGX9XxEuZgZzbNVNi6VyWw",
+        "title": "When BTS Hate Food",
+        "description": "BTS have tried a variety of dishes in Korea and while traveling the world, so their palettes are always expanding and changing.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pMv6QcVk3wg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pMv6QcVk3wg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pMv6QcVk3wg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ONLY LUV BANGTAN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-11T10:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QsxKKV6Yc_JAybLTnFBJdleABvI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gdZLi9oWNZg"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-21T03:58:10Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "BTS (방탄소년단) &#39;Dynamite&#39; Official MV",
+        "description": "BTS (방탄소년단) 'Dynamite' Official MV Credits: Director: Yong Seok Choi (Lumpens) Assistant Director: Jihye Yoon (Lumpens) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gdZLi9oWNZg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gdZLi9oWNZg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gdZLi9oWNZg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-21T03:58:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fMCvT27NTG5cujk4_FBYdxudllw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eMr4WAy6SiM"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-10T13:38:36Z",
+        "channelId": "UC427i7YN50OJWsUJVLjpfLA",
+        "title": "3 Kpop Idols With Spectacular WEIGHT LOSS In January 2023",
+        "description": "In the K-pop entertainment industry where great emphasis is put on visuals, the weight change of K-pop idols has always been of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eMr4WAy6SiM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eMr4WAy6SiM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eMr4WAy6SiM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BeBoss TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-10T13:38:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XMeIDTnQUpfZIunv71QDDrDOFgI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WMweEpGlu_U"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-21T03:46:13Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "BTS (방탄소년단) &#39;Butter&#39; Official MV",
+        "description": "BTS (방탄소년단) 'Butter' Official MV Credits: Director: Yong Seok Choi (Lumpens) 1st AD: Jihye Yoon (Lumpens) 2nd AD: Ran ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WMweEpGlu_U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WMweEpGlu_U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WMweEpGlu_U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-21T03:46:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BBhsPHmqC5huPq_aOkawRTLQ3cg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XsX3ATc3FbA"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-12T09:00:02Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "BTS (방탄소년단) &#39;작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)&#39; Official MV",
+        "description": "BTS (방탄소년단) '작은 것들을 위한 시 (Boy With Luv) (Feat. Halsey)' Official MV Credits: Director : YongSeok Choi (Lumpens) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-12T09:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZTlH6C092is6XrHjiQFniNkBHfQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VQXwnQYVQvk"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-10T11:46:17Z",
+        "channelId": "UCupslRq5jW95UGzPjOZz0FA",
+        "title": "K팝 거물들 팝콘각 쩐의 전쟁...이수만과 방시혁, 에스엠을 둘러싼 하이브와 카카오 대격돌 / 이대호 기자 [야식잡썰 EP.98]",
+        "description": "\"이대호 기자가 주린이 PD들에게 들려주는 경제 이야기\" [야식잡썰 EP.98] 탐욕왕 이수만은 왜 다시 방시혁에게 손 내밀었나? 하이브 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VQXwnQYVQvk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VQXwnQYVQvk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VQXwnQYVQvk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "와이스트릿 Ystreet",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-10T11:46:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TJA3ApHvduWg4gelWBMoMDtIEnc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HbkBVxU5K5A"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-23T01:00:03Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "BTS (방탄소년단) &#39;Butter&#39; @ The 64th GRAMMY Awards",
+        "description": "Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HbkBVxU5K5A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HbkBVxU5K5A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HbkBVxU5K5A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-23T01:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c07x2oVXC0uBjaYSx58n7dIuM_0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gMlI7evtu1M"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-10T09:00:36Z",
+        "channelId": "UCU0eCWO-6ucZuCMAYTXwTdw",
+        "title": "TXT &#39;OX1=Love Song&#39; MV Reaction!",
+        "description": "today we watch our very first TXT mv after have been (slightly) knowing them for a few years through bts! thank you jk for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gMlI7evtu1M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gMlI7evtu1M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gMlI7evtu1M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mexinese Family",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-10T09:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E1MPuuNQqRe1G7YVU9dZGVhBn6U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CuklIb9d3fI"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-09T03:59:12Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "BTS (방탄소년단) &#39;Permission to Dance&#39; Official MV",
+        "description": "BTS (방탄소년단) 'Permission to Dance' Official MV Credits: Director: Yong Seok Choi (Lumpens) & Woogie Kim (MOTHER) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CuklIb9d3fI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CuklIb9d3fI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CuklIb9d3fI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-09T03:59:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6lNZuVL0jutvE1SarZW_I_fLrsg",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ"
+      },
+      "snippet": {
+        "publishedAt": "2012-12-17T03:20:38Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "BANGTANTV",
+        "description": "This is the official YouTube channel of BTS. 방탄소년단 공식 유튜브 채널 입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/NDWZM_aZQZJ81KRMyctZ5WYJbMIeDXLXBbAYfudK9idNpn7jIiamnj4-_3XIvCvKr1fEU7551A=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/NDWZM_aZQZJ81KRMyctZ5WYJbMIeDXLXBbAYfudK9idNpn7jIiamnj4-_3XIvCvKr1fEU7551A=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/NDWZM_aZQZJ81KRMyctZ5WYJbMIeDXLXBbAYfudK9idNpn7jIiamnj4-_3XIvCvKr1fEU7551A=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-12-17T03:20:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Sp1rbjwB-ppv-_Ic7cXNChjt9VQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0lapF4DQPKQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-04T15:00:02Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "BTS (방탄소년단) &#39;Black Swan&#39; Official MV",
+        "description": "BTS (방탄소년단) 'Black Swan' Official MV Credits: Director : YongSeok Choi (Lumpens) Co-Director : Guzza (Lumpens) Assistant ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0lapF4DQPKQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0lapF4DQPKQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0lapF4DQPKQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-04T15:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K--9qXzHJgFcbOyIFyOAwhib3mI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j2l_jTDuzuM"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-11T10:05:36Z",
+        "channelId": "UCU0eCWO-6ucZuCMAYTXwTdw",
+        "title": "&#39;SUCHWITA&#39; EP. 4 with HOSHI Reaction!",
+        "description": "another fun episode with suga! today we meet a new friend, hoshi from seventeen! https://www.patreon.com/MexineseFamily 3 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j2l_jTDuzuM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j2l_jTDuzuM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j2l_jTDuzuM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mexinese Family",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-11T10:05:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KmlCP-GaYGxmzHJMixzX2yr9bG0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kXpOEzNZ8hQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-10T03:59:38Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "BTS (방탄소년단) &#39;Yet To Come (The Most Beautiful Moment)&#39; Official MV",
+        "description": "BTS (방탄소년단) 'Yet To Come (The Most Beautiful Moment)' Official MV Credits: Director: Yong Seok Choi (Lumpens) 1st AD: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kXpOEzNZ8hQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kXpOEzNZ8hQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kXpOEzNZ8hQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-10T03:59:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0ygvCqlPO6pAhbzT3FLyQtT61lw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "npcaOTuL8JE"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-09T13:00:11Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "[슈취타] EP.4 SUGA with 호시",
+        "description": "슈가와취하는타임 #슈취타 #SUGA #슈가 #호시 #HOSHI Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/npcaOTuL8JE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/npcaOTuL8JE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/npcaOTuL8JE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-09T13:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "00bMHhgHM7zsSjqxQn6ARYJtX30",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cXCBiF67jLM"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-13T05:00:07Z",
+        "channelId": "UCg8ZzloDPTrOiGztK0C9txQ",
+        "title": "TAEYANG - &#39;VIBE (feat. Jimin of BTS)&#39; M/V",
+        "description": "https://taeyang.lnk.to/VIBE TAEYANG - 'VIBE (feat. Jimin of BTS)' M/V 말론 표현할 수 없지만 Girl, You gotta know you got that vibe ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cXCBiF67jLM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cXCBiF67jLM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cXCBiF67jLM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "THEBLACKLABEL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-13T05:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SgxmYR5VmSDPXvID8rgeK5GNEOE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Cb70gcTVvYI"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-16T04:00:03Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "BTS (방탄소년단) &#39;달려라 방탄 (Run BTS)&#39; @ BTS &quot;Yet To Come&quot; in BUSAN",
+        "description": "BTS #방탄소년단 #달려라방탄 #RunBTS #YetToComeInBUSAN Connect with BTS: https://ibighit.com/bts ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cb70gcTVvYI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cb70gcTVvYI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cb70gcTVvYI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-16T04:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tfnVU54TWIuTmcbBCoqx5vs5PzM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GZjt_sA2eso"
+      },
+      "snippet": {
+        "publishedAt": "2016-05-15T13:00:03Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "BTS (방탄소년단) &#39;Save ME&#39; Official MV",
+        "description": "BTS (방탄소년단) 'Save ME' Official MV.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GZjt_sA2eso/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GZjt_sA2eso/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GZjt_sA2eso/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-05-15T13:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JFR5Wkv9QNVR94QZ7thOsS_5fTI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_4AuJv6cByY"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-11T09:43:30Z",
+        "channelId": "UC0UX_EK8-UuBi-OrkmWB6eA",
+        "title": "【撩星聞】「在巡演的每個城市都打過針」 SUGA跳完BTS這兩首歌「肩膀就不行了」",
+        "description": "BTS成員SUGA曾在2020年因為左肩長期的舊傷進行手術，休養了一段時間後才正式復出螢光幕，近日他在自己的網路節目上談及此 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_4AuJv6cByY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_4AuJv6cByY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_4AuJv6cByY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "中天娛樂頻道",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-11T09:43:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O-uzWO8G7mylPQDjZYjW1U-46lU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RS2zY3VedHc"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-13T12:30:03Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "BTS (방탄소년단) &#39;Yet To Come (The Most Beautiful Moment)&#39; @ ‘Proof’ Live 20220613",
+        "description": "Share your favorite #MyBTStory https://yt.be/MyBTStoryOnShorts 0:00 #MyBTStory 1:17 share your fav BTS story 1:33 Only on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RS2zY3VedHc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RS2zY3VedHc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RS2zY3VedHc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-13T12:30:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8Uebdx_JHl8L84CcMpXrQ0Sp-5M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AJ60RL0IpJ8"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-10T01:00:01Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "&#39;j-hope IN THE BOX&#39; Main Trailer",
+        "description": "'Jack In The Box'의 제작기와 리스닝 파티, '롤라팔루자' 공연 준비부터 무대 위 비상하는 모습까지 200여 일간 아티스트 제이홉의 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AJ60RL0IpJ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AJ60RL0IpJ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AJ60RL0IpJ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-10T01:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SWB9yzTFV5XML0vM6YQ-2nmfZyM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c7wByYDxktE"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-22T07:00:02Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "[EPISODE] BTS (방탄소년단) @ &quot;Yet To Come&quot; in BUSAN",
+        "description": "BTSEPISODE #BTS #방탄소년단 #YetToCome Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c7wByYDxktE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c7wByYDxktE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c7wByYDxktE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-22T07:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RSnc_ONEl-ac-HwGEMsariouefU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r2vGt7KvgVU"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-09T11:00:36Z",
+        "channelId": "UCgqMjKxRWAKUvgYqgomighw",
+        "title": "BTS Best Stage Mix Compilation🔥방탄소년단 무대모음 KBS Music Bank, KBS Song Festival",
+        "description": "BTS Stage Compilation #4K Remastered by KBS 충북 00:00 고민보다 Go 04:13 HOME 08:16 Boy With Luv (작은 것들을 위한 시) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r2vGt7KvgVU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r2vGt7KvgVU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r2vGt7KvgVU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS충북",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-09T11:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h7eUse_63D0155CmVytOJ_cRbQ0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "33HADNzC1ZU"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-09T13:40:00Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "[#슈취타] 감동의 파도가 밀려온다🌊 - EP.4 #SUGA with #호시 #HOSHI",
+        "description": "Watch full ver now: https://youtu.be/npcaOTuL8JE Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/33HADNzC1ZU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/33HADNzC1ZU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/33HADNzC1ZU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-09T13:40:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3TzAmkRqjx8xvCpSsNvNmDFpWo4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "77gxGXV_ctY"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-11T03:00:06Z",
+        "channelId": "UCRDowcnvz5ZVh-3NVAdfiqg",
+        "title": "카타르가 BTS 정국을 선택한 놀라운 이유(Why did Qatar choose Jungkook of BTS for the World Cup?)",
+        "description": "방탄소년단의 황금 막내 정국은 어떻게 카타르의 남자가 되었나? #방탄소년단 #BTS #정국 #JUNGKOOK #카타르월드컵 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/77gxGXV_ctY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/77gxGXV_ctY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/77gxGXV_ctY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "달수네라이브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-11T03:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ye8hs7BzRGF7Msvy2gdLtcqp5fI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sYKOP8u8dlM"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-10T14:01:35Z",
+        "channelId": "UCy0dIOFuIfbmZ2G2oPgt22w",
+        "title": "【シュチタ】ユンギ×ホシ対談！この２組の組み合わせはK-POPオタクとしても激アツ！【BTS SEVENTEEN】[슈취타] EP.4 SUGA with 호시",
+        "description": "[슈취타] EP.4 SUGA with 호시 https://youtu.be/npcaOTuL8JE □配信に関しての注意点□ ①配信がおしている場合には遅刻し ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sYKOP8u8dlM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sYKOP8u8dlM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sYKOP8u8dlM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "サランピTV〈SaranpiTV〉",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-10T14:01:35Z"
+      }
+    }
+  ]
+}
